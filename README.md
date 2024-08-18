@@ -42,20 +42,6 @@ Welcome to the repository for my personal portfolio website! This project showca
 ├── Readme.md  
 └── License  
 
-📝 How to Use
-1. Clone the repository:
-```
-git clone https://github.com/suyashpotdar/portfolio-website.git
-cd portfolio-website
-```
-2. Open the `index.html` file in your browser to view the website:
-```
-open index.html
-```
-3. To make changes:
-* Modify the HTML, CSS, and JS files as needed.
-* Push changes to the repository to update the live website.
-
 🌐 Live Demo  
 Check out the live version of my portfolio [here](https://suyashpotdar.netlify.app/).  
 
